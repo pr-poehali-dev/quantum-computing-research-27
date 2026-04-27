@@ -18,7 +18,7 @@ export default function Featured() {
       <div className="flex-1 text-left lg:h-[800px] flex flex-col justify-center lg:mr-12 lg:order-1">
         <h3 className="uppercase mb-4 text-sm tracking-wide text-neutral-600">Наши преимущества</h3>
         <p className="text-2xl lg:text-4xl mb-10 text-neutral-900 leading-tight">
-          Большой опыт работы — доступные цены, эксклюзивный результат.
+          Гранит и мрамор хранят память столетиями. Мы создаём изделия, которые останутся достойной памятью — красиво, надёжно, с душой.
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-10">
           {advantages.map((item) => (
